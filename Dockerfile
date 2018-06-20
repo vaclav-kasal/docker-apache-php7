@@ -1,4 +1,4 @@
-FROM vaclavkasal/apache-php7
+FROM ubuntu
 
 MAINTAINER vkasal <vaclav.kasal@gmail.com>
 
