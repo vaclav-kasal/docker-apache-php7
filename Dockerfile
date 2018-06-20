@@ -12,3 +12,4 @@ RUN apt-get update && \
 
 RUN rm -rf /var/lib/apt/lists/*
 
+CMD apachectl -D FOREGROUND
